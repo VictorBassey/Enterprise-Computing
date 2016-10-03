@@ -1,0 +1,7 @@
+160903214537, 22222  "W Is For Wasted - Sue Grafton" $9.95 1 0% $9.95, 09/03/16 09:45:37 PM EDT
+160903214537, 99999  "Rogue Lawyer - John Grisham" $15.95 2 0% $31.90, 09/03/16 09:45:37 PM EDT
+160903214537, 11234  "Tricky Twenty-Two - Janet Evanovich" $12.95 1 0% $12.95, 09/03/16 09:45:37 PM EDT
+160903220547, 44444  "Revival - Stephen King" $12.95 5 10% $58.28, 09/03/16 10:05:47 PM EDT
+160903220547, 55555  "Everyday Italian - Giada de Laurentiis" $18.99 10 15% $161.41, 09/03/16 10:05:47 PM EDT
+160903220547, 11112  "The Guilty - David Baldacci" $14.95 7 10% $94.18, 09/03/16 10:05:47 PM EDT
+160903220547, 88888  "Terminal City - Linda Fairstein" $10.95 16 20% $140.16, 09/03/16 10:05:47 PM EDT
